@@ -23,4 +23,5 @@ Built using *HTML, CSS, and JavaScript*, it provides a clean, responsive, and be
 ## Usage
 1. Clone or download the repository:
 ```bash
-git clone https://github.com/username/repo-name.git
+[git clone https://github.com/username/repo-name.git
+](https://github.com/Maria512025/Basic-Calculator.git)
